@@ -1,0 +1,17 @@
+{
+    "nexus": "Nexus / WorldWideWeb",
+    "lynx": "Lynx",
+    "netscape": "Netscape Navigator / Mosaic",
+    "opera": "Opera",
+    "ie": "Internet Explorer",
+    "ie_mac": "Internet Explorer for Mac",
+    "mozilla": "Mozilla",
+    "camino": "Camino / Chimera",
+    "firefox": "Firefox / Phoenix / Firebird",
+    "safari": "Safari",
+    "maxthon": "Maxthon",
+    "seamonkey": "SeaMonkey",
+    "lunascape": "Lunascape",
+    "netsurf": "NetSurf",
+    "chrome": "Chrome"
+}

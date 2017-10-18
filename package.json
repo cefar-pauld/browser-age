@@ -1,0 +1,15 @@
+{
+  "name": "browser-age",
+  "version": "0.1.0",
+  "description": "Determine which browsers are of a certain age.",
+  "main": "browser-age.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cefar <dev@cefar.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "chrono-node": "^1.3.5",
+    "for-own": "^1.0.0"
+  }
+}
